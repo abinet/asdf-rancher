@@ -1,5 +1,5 @@
 language: c
-script: asdf plugin-test kubectl https://github.com/Banno/asdf-kubectl.git
+script: asdf plugin-test kubectl https://github.com/abinet/asdf-rancher.git
 before_script:
   - git clone https://github.com/asdf-vm/asdf.git
   - . asdf/asdf.sh

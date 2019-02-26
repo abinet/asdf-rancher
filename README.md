@@ -1,13 +1,13 @@
-# asdf-kubectl
+# asdf-rancher
 
-[![Build Status](https://travis-ci.org/Banno/asdf-kubectl.svg?branch=master)](https://travis-ci.org/Banno/asdf-kubectl)
+[![Build Status](https://travis-ci.org/abinet/asdf-rancher.svg?branch=master)](https://travis-ci.org/abinet/asdf-rancher)
 
-Kubectl plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
+Rancher plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
 ## Install
 
 ```
-asdf plugin-add kubectl https://github.com/Banno/asdf-kubectl.git
+asdf plugin-add rancher https://github.com/abinet/asdf-rancher.git
 ```
 
 ## Use
